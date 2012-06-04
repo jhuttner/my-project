@@ -1,0 +1,3 @@
+[submodule "lib/my-framework"]
+	path = lib/my-framework
+	url = git://github.com/jhuttner/framework-test.git
